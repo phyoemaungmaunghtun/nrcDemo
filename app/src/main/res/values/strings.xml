@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nrcDemo</string>
+    <string name="scan_nrc">Scan</string>
+    <string name="detail_nrc">Detail NRC</string>
+</resources>
